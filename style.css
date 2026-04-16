@@ -1,3 +1,18 @@
 .tracking-tight {
   letter-spacing: -1px;
 }
+#logo{
+  width: 20%;
+  /* height: 20%; */
+}
+#searchbox{
+  width: 50%;
+  padding: 12px;
+  margin-left: 2%;
+}
+#Searchicon{
+  width: 4%;
+  /* height: 50%; */
+  padding: 12px;
+  border-radius: ;
+}
